@@ -1,9 +1,0 @@
-class  RK3strings
-{
-	public static void main(String[] args) 
-	{
-		String name ="RAJNIKANTH";
-		String lstring = name.tolowercase();
-		System.out.println(lstring);
-	}
-}
